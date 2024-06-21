@@ -1,4 +1,5 @@
 # Automatizador_Excel_Word
+
 Este sistema é desenvolvido em Python para automatizar a geração de contratos personalizados em formato Word (.docx), utilizando dados extraídos de uma planilha Excel. A seguir, um resumo detalhado do funcionamento do código:
 
 1. **Importação de Bibliotecas**:
@@ -31,3 +32,18 @@ Este sistema é desenvolvido em Python para automatizar a geração de contratos
 8. **Salvamento do Documento Personalizado**:
    - `documento.save(f"Contrato-{nome}.docx")`: Salva o documento Word com o nome do cliente incluído no nome do arquivo.
 
+### Observação
+
+Este sistema automatiza a geração de contratos personalizados em formato Word (.docx) a partir de dados extraídos de uma planilha Excel. Não há integração com banco de dados neste projeto.
+
+### Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
+### Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+
+## Autores
+
+- [@Gustavo-gcr](https://github.com/Gustavo-gcr)
