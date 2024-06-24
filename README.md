@@ -34,15 +34,11 @@ Este sistema é desenvolvido em Python para automatizar a geração de contratos
 
 ### Observação
 
-Este sistema automatiza a geração de contratos personalizados em formato Word (.docx) a partir de dados extraídos de uma planilha Excel. Não há integração com banco de dados neste projeto.
+Este sistema automatiza a geração de contratos personalizados em formato Word (.docx) a partir de dados extraídos de uma planilha Excel.
 
 ### Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-### Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
 ## Autores
 
